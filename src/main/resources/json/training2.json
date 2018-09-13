@@ -1,0 +1,14 @@
+{
+  "id_training": 1,
+  "Currencies": "GBPJPY",
+  "Course1": "4.824",
+  "Course2": "0.032",
+  "Id": "123456789",
+  "Class": "MyClass1",
+  "Bid": "3.237",
+  "Change": "0.823%",
+  "Profitability": "HIGH",
+  "Start Date": "20-08-2018 00:00",
+  "End Date": "01-01-2000 00:00",
+  "Comment": "Comment"
+}
